@@ -1,0 +1,15 @@
+[package]
+name = "twitter-account-list"
+version = "0.1.0"
+authors = ["kgtkr <kgtkr.jp@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+egg-mode = { path = "twitter-rs" }
+serde = "1.0.91"
+serde_derive = "1.0.91"
+toml = "0.5.1"
+tokio-core = "0.1.17"
+clap = "2.33.0"
+csv = "1.0.7"
+bimap = "0.3.1"
