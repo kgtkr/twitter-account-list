@@ -1,3 +1,0 @@
-[submodule "twitter-rs"]
-	path = twitter-rs
-	url = git@github.com:wezm/twitter-rs.git
